@@ -1,0 +1,13 @@
+<resources>
+	<string name="app_name">Creating a Quiz App in Android</string>
+	<string name="submit">Submit</string>
+	<string name="label">TextView</string>
+	<string name="first">first</string>
+	<string name="second">second</string>
+	<string name="third">third</string>
+	<string name="toast_no_selected">Before you submit, you must choose answer</string>
+	<string name="toast_correct_answer">Answer is correct</string>
+	<string name="toast_incorrect_answer">Answer is incorrect</string>
+	<string name="correct_answer">TextView</string>
+	<string name="incorrect_answer">TextView</string>
+</resources>
